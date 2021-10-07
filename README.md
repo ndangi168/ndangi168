@@ -1,5 +1,5 @@
 ☺️☺️☺️
-![grab-landing-page](https://giphy.com/embed/gen0pz7WHRGbyFYtkK)
+![grab-landing-page](https://media.giphy.com/media/gen0pz7WHRGbyFYtkK/giphy.gif)
 
 Here are some ideas to get you started:
 
