@@ -1,6 +1,6 @@
 ☺️☺️☺️
 ![grab-landing-page](https://media.giphy.com/media/gen0pz7WHRGbyFYtkK/giphy.gif)
-![grab-landing-page](https://media.giphy.com/media/QfsvYoBSSpfbtFJIVo/giphy.gif)
+![grab-landing-page](https://media.giphy.com/media/gen0pz7WHRGbyFYtkK/giphy.gif)
 
 Here are some ideas to get you started:
 
