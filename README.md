@@ -1,6 +1,5 @@
 ☺️☺️☺️
-![grab-landing-page]
-<iframe src="https://giphy.com/embed/gen0pz7WHRGbyFYtkK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halloween-ghost-spooky-gen0pz7WHRGbyFYtkK">via GIPHY</a></p>
+![grab-landing-page](https://giphy.com/embed/gen0pz7WHRGbyFYtkK)
 
 Here are some ideas to get you started:
 
