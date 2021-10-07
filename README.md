@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning ...Swift UI and Machine Learning
 - 🤔 I’m looking for help with ...Open Source contributio
 - ⚡ Fun fact: ...🙂🙃😊
-
-- I'm still "Naive".
+<p align="center">
+  - I'm still "Naive".
+</p>
 
 ## Stats
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=ndangi168&show_icons=true&count_private=true&theme=omni) 
