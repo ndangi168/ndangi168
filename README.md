@@ -1,8 +1,7 @@
-![Alt text](https://github.com/ndangi168/ndangi168/blob/main/xgdfg.gif)
-- 🔭 I’m currently working on ...
+![Alt text](https://github.com/ndangi168/ndangi168/blob/main/profile.gif)
+
 - 🌱 I’m currently learning ...Swift UI and Machine Learning
 - 🤔 I’m looking for help with ...Open Source contributio
-- 📫 How to reach me: @nikhil.dangi
 - ⚡ Fun fact: ...🙂🙃😊
 
 - I'm still "Naive".
