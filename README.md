@@ -8,10 +8,8 @@
 
 ## Stats
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=ndangi168&show_icons=true&count_private=true&theme=omni) 
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ndangi168&theme=omni)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni" />
-</a>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
 
