@@ -1,7 +1,4 @@
-☺️☺️☺️
-
-Here are some ideas to get you started:
-![Alt text](https://media.giphy.com/media/gen0pz7WHRGbyFYtkK/giphy-downsized.gif)
+![Alt text](https://github.com/ndangi168/ndangi168/blob/main/xgdfg.gif)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...Swift UI and Machine Learning
 - 🤔 I’m looking for help with ...Open Source contributio
