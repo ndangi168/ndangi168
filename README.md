@@ -6,6 +6,8 @@
 - ⚡ Fun fact: ...🙂🙃😊
 - I'm still "Naive".
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndangi168&label=Profile%20views&color=0e75b6&style=flat" alt="siddydevelops" /> </p>
+
 ## My latest blogs
 https://opensourceprojectandsoftware.blogspot.com/2021/05/open-source-project-free-sharing-and.html
 
