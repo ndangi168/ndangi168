@@ -1,6 +1,7 @@
 ![Alt text](https://github.com/ndangi168/ndangi168/blob/main/profile.gif)
 
 <h1 align="center">Hi 👋, I'm Nikhil Dangi</h1>
+<h3 align="center">Learning fundamentals for programming, which is just what I needed as a first step for my career change!”</h3>
 <h4>- 🌱 I’m currently learning ...Swift UI and Machine Learning</h4>
 <h4>- 🤔 I’m looking for help with ...Open Source contributio</h4>
 <h4>- ⚡ Fun fact: ...🙂🙃😊</h4>
