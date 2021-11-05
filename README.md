@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/ndangi168/ndangi168/blob/main/profile.gif)
 
-# Nikhil Dangi
+<h1 align="center">Nikhil Dangi</h1>
 - 🌱 I’m currently learning ...Swift UI and Machine Learning
 - 🤔 I’m looking for help with ...Open Source contributio
 - ⚡ Fun fact: ...🙂🙃😊
@@ -10,6 +10,9 @@
 
 ## My latest blogs
 [<img src='https://github.com/ndangi168/ndangi168/blob/main/OPen.png' alt='OpenSourceProject' width='800' height='140'>](https://opensourceprojectandsoftware.blogspot.com/2021/05/open-source-project-free-sharing-and.html) 
+
+
+[<img src='https://github.com/ndangi168/ndangi168/blob/main/1stBlog.png' alt='1stBlog' width='800' height='140'>](https://thebeginnerslanguage.blogspot.com/2021/04/why-do-we-have-so-many-programming.html) 
 
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
