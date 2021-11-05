@@ -7,7 +7,7 @@
 - I'm still "Naive".
 
 ## My latest blogs
-
+https://opensourceprojectandsoftware.blogspot.com/2021/05/open-source-project-free-sharing-and.html
 
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
