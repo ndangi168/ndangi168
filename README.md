@@ -1,10 +1,10 @@
 ![Alt text](https://github.com/ndangi168/ndangi168/blob/main/profile.gif)
 
 <h1 align="center">Nikhil Dangi</h1>
-- 🌱 I’m currently learning ...Swift UI and Machine Learning
-- 🤔 I’m looking for help with ...Open Source contributio
-- ⚡ Fun fact: ...🙂🙃😊
-- I'm still "Naive".
+<h2>- 🌱 I’m currently learning ...Swift UI and Machine Learning</h2>
+<h2>- 🤔 I’m looking for help with ...Open Source contributio</h2>
+<h2>- ⚡ Fun fact: ...🙂🙃😊</h2>
+<h2>- I'm still "Naive".</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndangi168&label=Profile%20views&color=0e75b6&style=flat" alt="ndangi168" /> </p>
 
