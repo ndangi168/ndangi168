@@ -13,8 +13,6 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ndangi168&theme=omni)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
-
 
 <h3 align="left">Productivity Stats📈</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndangi168&theme=monokai"  display=block width=80% height=auto  alt="1" >
