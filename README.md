@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndangi168&label=Profile%20views&color=0e75b6&style=flat" alt="ndangi168" /> </p>
 
 ## My latest blogs
-<p align="left"> <img src="" alt="ndangi168" /> </p>
+[<img src='https://github.com/ndangi168/ndangi168/blob/main/OPen.png' alt='OpenSourceProject' height='40'>](https://opensourceprojectandsoftware.blogspot.com/2021/05/open-source-project-free-sharing-and.html) 
 
 ## Stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
@@ -23,8 +23,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndangi168&theme=monokai"  display=block width=80% height=auto  alt="1" >
 
 ## Reach me:
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ndangi168)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-dangi-835124201/)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008787789103)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikhil.dangi/)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NikhilD29854231)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ndangi168)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-dangi-835124201/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008787789103)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikhil.dangi/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NikhilD29854231)  
