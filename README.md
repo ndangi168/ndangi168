@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Dangi
 <h3 align="center">Learning fundamentals for programming, which is just what I need as a first step.</h3></h1>
 <h4>- 🌱 I’m currently learning ...Swift UI and Machine Learning</h4>
-<h4>- 🤔 I’m looking for help with ...Open Source contributio</h4>
+<h4>- 🤔 I’m looking for help with ...Open Source contribution</h4>
 <h4>- ⚡ Fun fact: ...🙂🙃😊</h4>
 <h4>- I'm still "Naive".</h4>
 
