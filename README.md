@@ -1,4 +1,4 @@
-![Alt text](https://github.com/ndangi168/ndangi168/blob/main/profile.gif)
+![Alt text](https://github.com/ndangi168/ndangi168/blob/main/profile1.gif)
 
 <h1 align="center">Hi 👋, I'm Nikhil Dangi
 <h3 align="center">Learning fundamentals for programming, which is just what I need as a first step.</h3></h1>
