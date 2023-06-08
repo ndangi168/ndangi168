@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndangi168&label=Profile%20views&color=0e75b6&style=flat" alt="ndangi168" /> </p>
 
-[<img src='https://github.com/ndangi168/ndangi168/blob/main/1stBlog.png' alt='1stBlog' width='800' height='140'>](https://thebeginnerslanguage.blogspot.com/2021/04/why-do-we-have-so-many-programming.html) 
 
 ## Stats📈
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
