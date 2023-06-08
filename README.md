@@ -9,10 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndangi168&label=Profile%20views&color=0e75b6&style=flat" alt="ndangi168" /> </p>
 
-## My latest blogs
-[<img src='https://github.com/ndangi168/ndangi168/blob/main/OPen.png' alt='OpenSourceProject' width='800' height='140'>](https://opensourceprojectandsoftware.blogspot.com/2021/05/open-source-project-free-sharing-and.html) 
-
-
 [<img src='https://github.com/ndangi168/ndangi168/blob/main/1stBlog.png' alt='1stBlog' width='800' height='140'>](https://thebeginnerslanguage.blogspot.com/2021/04/why-do-we-have-so-many-programming.html) 
 
 ## Stats📈
