@@ -18,19 +18,16 @@
      - [IBM's Data Science Methodology](https://coursera.org/share/9f4e0d2f69d7c57d021ff39b1229c2cc)
      - [IBM's Databases and SQL for Data Science with Python](https://coursera.org/share/b18f7681a476128dc54b41d54d98a472)
 
-<!-- **Trophies:**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjdhir119&margin-w=30&theme=onedark" alt="tjdhir119" /></a> </p> -->
 
-<!-- ***Let's work together (:***
+***Let's work together (:***
 <p align="left">
-<!-- <a href="https://twitter.com/@ghodeswartanmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ghodeswartanmay" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/tejasvni-dhir-9ab891211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasvni dhir" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/tanmay ghodeswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanmay ghodeswar" height="30" width="40" /></a> -->
-<a href="https://instagram.com/tejasvni_dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasvni_dhir" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@ghodeswar.tanmay22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ghodeswar.tanmay22" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/tjdhir119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tjdhir119" height="30" width="40" /></a>
+<a href="https://twitter.com/NikhilD29854231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nikhildangi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-dangi-835124201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil dangi" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil.dangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.dangi" height="30" width="40" /></a>
+<a href="https://medium.com/@nikhildangi168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhildangi168" height="30" width="40" /></a>
+<a href="https://www.behance.net/nikhildangi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="nikhildangi`" height="30" width="40" /></a>
 </p>
- -->
+
 
 
 
@@ -44,6 +41,3 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ndangi168&theme=omni)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndangi168&theme=monokai"  display=block width=80% height=auto  alt="1" >
-
-## Reach me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ndangi168)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-dangi-835124201/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008787789103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nikhil.dangi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NikhilD29854231)  
