@@ -19,20 +19,6 @@
      - [IBM's Databases and SQL for Data Science with Python](https://coursera.org/share/b18f7681a476128dc54b41d54d98a472)
 
 
-***Let's work together (:***
-<p align="left">
-<a href="https://twitter.com/NikhilD29854231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nikhildangi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikhil-dangi-835124201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil dangi" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhil.dangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.dangi" height="30" width="40" /></a>
-<a href="https://medium.com/@nikhildangi168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhildangi168" height="30" width="40" /></a>
-<a href="https://www.behance.net/nikhildangi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="nikhildangi`" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
 ## Stats📈
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ndangi168&langs_count=5&theme=omni)]()
 
@@ -41,3 +27,12 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ndangi168&theme=omni)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndangi168&theme=monokai"  display=block width=80% height=auto  alt="1" >
+
+***Let's work together (:***
+<p align="left">
+<a href="https://twitter.com/NikhilD29854231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nikhildangi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-dangi-835124201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil dangi" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil.dangi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.dangi" height="30" width="40" /></a>
+<a href="https://medium.com/@nikhildangi168" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@nikhildangi168" height="30" width="40" /></a>
+<a href="https://www.behance.net/nikhildangi1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/behance/behance-icon.svg" alt="nikhildangi`" height="30" width="40" /></a>
+</p>
